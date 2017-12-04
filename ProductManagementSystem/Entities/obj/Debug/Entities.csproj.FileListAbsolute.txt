@@ -1,0 +1,4 @@
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Entities\bin\Debug\Entities.dll
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Entities\bin\Debug\Entities.pdb
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Entities\obj\Debug\Entities.dll
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Entities\obj\Debug\Entities.pdb

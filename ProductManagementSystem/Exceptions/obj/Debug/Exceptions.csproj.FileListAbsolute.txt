@@ -1,0 +1,5 @@
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Exceptions\bin\Debug\Exceptions.dll
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Exceptions\bin\Debug\Exceptions.pdb
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Exceptions\obj\Debug\Exceptions.dll
+D:\M2_ManaliNaik\LayeredArchitectureDemo\ProductManagementSystem\Exceptions\obj\Debug\Exceptions.pdb
