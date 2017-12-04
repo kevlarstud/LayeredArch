@@ -1,0 +1,4 @@
+c:\users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankBEntities\bin\Debug\BankBEntities.dll
+c:\users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankBEntities\bin\Debug\BankBEntities.pdb
+c:\users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankBEntities\obj\Debug\BankBEntities.dll
+c:\users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankBEntities\obj\Debug\BankBEntities.pdb

@@ -1,0 +1,5 @@
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankDB\bin\Debug\BankDB.dll
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankDB\bin\Debug\BankDB.pdb
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankDB\obj\Debug\BankDB.csprojResolveAssemblyReference.cache
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankDB\obj\Debug\BankDB.dll
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankDB\obj\Debug\BankDB.pdb

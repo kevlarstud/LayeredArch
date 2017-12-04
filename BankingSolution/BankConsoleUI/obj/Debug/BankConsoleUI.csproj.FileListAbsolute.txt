@@ -1,0 +1,8 @@
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\bin\Debug\BankConsoleUI.exe.config
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\bin\Debug\BankConsoleUI.exe
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\bin\Debug\BankConsoleUI.pdb
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\bin\Debug\BankClassLiB.dll
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\bin\Debug\BankClassLiB.pdb
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\obj\Debug\BankConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\obj\Debug\BankConsoleUI.exe
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\BankConsoleUI\obj\Debug\BankConsoleUI.pdb

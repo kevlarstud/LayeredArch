@@ -1,0 +1,6 @@
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\bin\Debug\ReflectionsAPIEX.exe.config
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\bin\Debug\ReflectionsAPIEX.exe
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\bin\Debug\ReflectionsAPIEX.pdb
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\obj\Debug\ReflectionsAPIEX.csprojResolveAssemblyReference.cache
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\obj\Debug\ReflectionsAPIEX.exe
+C:\Users\rk_sh\documents\visual studio 2013\Projects\BankingSolution\ReflectionsAPIEX\obj\Debug\ReflectionsAPIEX.pdb
