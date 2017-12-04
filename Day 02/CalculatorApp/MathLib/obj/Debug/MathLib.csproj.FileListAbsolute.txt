@@ -1,0 +1,5 @@
+D:\M2_GauriDeshpande\Examples\Day 2\CalculatorApp\MathLib\bin\Debug\MathLib.dll
+D:\M2_GauriDeshpande\Examples\Day 2\CalculatorApp\MathLib\bin\Debug\MathLib.pdb
+D:\M2_GauriDeshpande\Examples\Day 2\CalculatorApp\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+D:\M2_GauriDeshpande\Examples\Day 2\CalculatorApp\MathLib\obj\Debug\MathLib.dll
+D:\M2_GauriDeshpande\Examples\Day 2\CalculatorApp\MathLib\obj\Debug\MathLib.pdb

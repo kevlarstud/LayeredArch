@@ -1,0 +1,6 @@
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.exe.config
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.exe
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.pdb
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.csprojResolveAssemblyReference.cache
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.exe
+D:\M2_GauriDeshpande\Examples\Day 2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.pdb
