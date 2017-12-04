@@ -1,0 +1,15 @@
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojResolveAssemblyReference.cache
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb

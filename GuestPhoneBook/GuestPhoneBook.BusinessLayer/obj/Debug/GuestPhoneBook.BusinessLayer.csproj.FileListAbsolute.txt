@@ -1,0 +1,33 @@
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 2\.Net Framework 4.5 and C# 5.0\Demos\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\Users\raghagra\Downloads\GuestPhoneBook\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.pdb
