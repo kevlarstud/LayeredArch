@@ -1,0 +1,5 @@
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Exceptions\bin\Debug\Exceptions.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Exceptions\bin\Debug\Exceptions.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Exceptions\obj\Debug\Exceptions.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Exceptions\obj\Debug\Exceptions.pdb

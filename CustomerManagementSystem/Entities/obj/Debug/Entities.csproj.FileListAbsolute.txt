@@ -1,0 +1,5 @@
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Entities\bin\Debug\Entities.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Entities\bin\Debug\Entities.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Entities\obj\Debug\Entities.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Entities\obj\Debug\Entities.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

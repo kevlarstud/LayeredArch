@@ -1,0 +1,9 @@
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\Entities.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\Exceptions.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\Entities.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\bin\Debug\Exceptions.pdb
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\M2_GauriDeshpande\LayeredArchitectureDemo\CustomerManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
