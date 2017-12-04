@@ -1,0 +1,7 @@
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\bin\Debug\EmpEnt.dll
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\bin\Debug\EmpEnt.pdb
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\obj\Debug\EmpEnt.csprojResolveAssemblyReference.cache
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\obj\Debug\EmpEnt.dll
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\obj\Debug\EmpEnt.pdb
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\bin\Debug\EMPUtility.dll
+c:\users\rk_sh\documents\visual studio 2013\Projects\PayrollSystem\EmpEnt\bin\Debug\EMPUtility.pdb
