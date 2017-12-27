@@ -1,0 +1,9 @@
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\AdmissonDAL.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\AdmissonDAL.pdb
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\Entities.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\Exceptions.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\Entities.pdb
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\bin\Debug\Exceptions.pdb
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\obj\Debug\AdmissonDAL.csprojResolveAssemblyReference.cache
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\obj\Debug\AdmissonDAL.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\AdmissonDAL\obj\Debug\AdmissonDAL.pdb
