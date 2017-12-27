@@ -1,0 +1,5 @@
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\Exceptions\bin\Debug\Exceptions.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\Exceptions\bin\Debug\Exceptions.pdb
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\Exceptions\obj\Debug\Exceptions.dll
+D:\Users\raghagra\Documents\Visual Studio 2015\Projects\StudentAdmission\Exceptions\obj\Debug\Exceptions.pdb
